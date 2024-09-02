@@ -1,0 +1,1 @@
+This repository has all the code written while a watched the classes of the course "Aprenda Golang do Zero! Desenvolva uma APLICAÇÃO COMPLETA!" Avaliable in https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa
