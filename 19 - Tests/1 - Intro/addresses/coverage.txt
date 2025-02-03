@@ -1,0 +1,9 @@
+mode: set
+testeIntro/addresses/addresses.go:8.41,16.20 4 1
+testeIntro/addresses/addresses.go:16.20,18.3 1 1
+testeIntro/addresses/addresses.go:20.2,23.35 3 1
+testeIntro/addresses/addresses.go:23.35,24.32 1 1
+testeIntro/addresses/addresses.go:24.32,26.4 1 1
+testeIntro/addresses/addresses.go:29.2,29.20 1 1
+testeIntro/addresses/addresses.go:29.20,31.3 1 1
+testeIntro/addresses/addresses.go:33.2,33.23 1 1

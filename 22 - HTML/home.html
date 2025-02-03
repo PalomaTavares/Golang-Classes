@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!--Forma 2 de CSS-->
+    <style>
+        h2{
+            color: blueviolet;
+            font-size: 60;
+        }
+
+        marquee{
+            color: brown;
+        }
+    </style>
+</head>
+<body>
+   <!-- Forma 1 de CSS <h2 style="color: blueviolet;"> Home</h2> -->
+    <h2>Home</h2>
+    <!-- <marquee>
+        <h4> Bem Vinde, {{ .Nome }}</h4>
+    </marquee> -->
+
+    <button id="button">Click Here!!!</button>
+
+    <!-- pode estar no body, head, ou arquivo separado -->
+<script> 
+    
+    var clicked = document.getElementById("button");
+    clicked.onclick = function (){
+        alert("You did it :)")
+
+        
+    }
+
+
+</script>
+
+</body>
+</html>
